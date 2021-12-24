@@ -1,1 +1,2 @@
-print("hello mk:")
+print("hello mk:)")
+yes that is python in a txt :)
